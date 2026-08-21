@@ -1,4 +1,4 @@
-# Market Index Prediction using LSTM
+# Stock Forecasting with Deep Learning
 
 ## Problem Statement
 The goal of this project is to build a machine learning model that can predict the closing stock price for the next 2 days, given the stock index information of the past 50 days.
